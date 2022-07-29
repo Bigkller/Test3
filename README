@@ -1,0 +1,5 @@
+en el codigo se representa una caja de supermercado donde se deben ingresar 4 
+parametros los cuales son tiempos de ejecucion para los semaforos, 
+los cuales serian en orden demora minima del cliente, demora maxima del cliente,
+demora minima  del cajera y demora maxima del cajero.
+luego el codigo al compilar nos arroja el ingreso de los productos y el paso por la caja de los productos por rondas que serian los clientes ingresados
